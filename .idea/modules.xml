@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. RestaurantApp/1. RestaurantApp.iml" filepath="$PROJECT_DIR$/1. RestaurantApp/1. RestaurantApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. RestaurantApp/1.1./1.1..iml" filepath="$PROJECT_DIR$/1. RestaurantApp/1.1./1.1..iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. RestaurantApp/1.1. Exercise/1.1. Exercise.iml" filepath="$PROJECT_DIR$/1. RestaurantApp/1.1. Exercise/1.1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. RestaurantApp/1.2. Exercise/1.2. Exercise.iml" filepath="$PROJECT_DIR$/1. RestaurantApp/1.2. Exercise/1.2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. DolphinariumApp/2. DolphinariumApp.iml" filepath="$PROJECT_DIR$/2. DolphinariumApp/2. DolphinariumApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. DolphinariumApp/2.1. Exercise/2.1. Exercise.iml" filepath="$PROJECT_DIR$/2. DolphinariumApp/2.1. Exercise/2.1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. DolphinariumApp/2.2. Exercise/2.2. Exercise.iml" filepath="$PROJECT_DIR$/2. DolphinariumApp/2.2. Exercise/2.2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. FurnitureFactory/3. FurnitureFactory.iml" filepath="$PROJECT_DIR$/3. FurnitureFactory/3. FurnitureFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. FurnitureFactory/3.1. Exercise/3.1. Exercise.iml" filepath="$PROJECT_DIR$/3. FurnitureFactory/3.1. Exercise/3.1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. FurnitureFactory/3.2. Exercise/3.2. Exercise.iml" filepath="$PROJECT_DIR$/3. FurnitureFactory/3.2. Exercise/3.2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ClimbersApp/4. ClimbersApp.iml" filepath="$PROJECT_DIR$/4. ClimbersApp/4. ClimbersApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ClimbersApp/4.1. Exercise/4.1. Exercise.iml" filepath="$PROJECT_DIR$/4. ClimbersApp/4.1. Exercise/4.1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ClimbersApp/4.2. Exercise/4.2. Exercise.iml" filepath="$PROJECT_DIR$/4. ClimbersApp/4.2. Exercise/4.2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Retake Exam/5. Retake Exam.iml" filepath="$PROJECT_DIR$/5. Retake Exam/5. Retake Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Retake Exam/5.1. Exercise/5.1. Exercise.iml" filepath="$PROJECT_DIR$/5. Retake Exam/5.1. Exercise/5.1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Retake Exam/5.2. Exercise/5.2. Exercise.iml" filepath="$PROJECT_DIR$/5. Retake Exam/5.2. Exercise/5.2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. FurnitureFactory/Completed/Completed.iml" filepath="$PROJECT_DIR$/3. FurnitureFactory/Completed/Completed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java OOP Exams.iml" filepath="$PROJECT_DIR$/Java OOP Exams.iml" />
+    </modules>
+  </component>
+</project>
